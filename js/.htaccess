@@ -1,0 +1,2 @@
+AuthName "js_pernot"
+AuthUserFile "/home/alaniswebsoft/.htpasswds/public_html/software_gestion/js/passwd"
